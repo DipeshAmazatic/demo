@@ -1,0 +1,3 @@
+origin/master --- apply on remote
+git rebase origin/master
+git push
